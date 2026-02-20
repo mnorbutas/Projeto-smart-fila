@@ -50,7 +50,8 @@ CREATE DATABASE db_cadastro_aluno;
 [x] Excluir Aluno
 
 ---
-<p style="color: red;">Maria Eduarda Norbutas </p>
+<p style="color: red;">Maria Eduarda Norbutas (https://www.linkedin.com/in/maria-norbutas/) </p>
 [Vedilson Prado](https://br.linkedin.com/in/vedilson)
+
 
 
