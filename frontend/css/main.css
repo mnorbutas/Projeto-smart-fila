@@ -1,0 +1,62 @@
+:root {
+    --p: #F6C4D2;
+    --s: #fbffc5;
+    --d: #e74c3c;
+}
+
+
+body {
+    font-family: sans-serif;
+    background-color: #eee;
+    margin: 0;
+  font-family: "League Script", cursive;
+
+}
+
+
+header {
+    background: var(--p);
+    color: white;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px 50px;
+    height: 10vh;
+}
+
+header a {
+    text-decoration: none;
+    color: rgb(249, 252, 207);
+    text-transform: uppercase;
+}
+
+#menuCadastro {
+    text-align: center;
+    display: flex;
+    gap: 20px;
+}
+
+button {
+    height: 30px;
+    width: 150px;
+    cursor: pointer;
+    /* mouse muda */
+    color: #878a6d;
+    border: none;
+    background: var(--s);
+    border-radius: 10px;
+    text-transform: uppercase;
+    /* caixa alta */
+    font-weight: bold;
+}
+
+.container {
+    padding: 0;
+    margin: 0;
+    height: 90vh;
+    background: url(/img/Wallpaper.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
